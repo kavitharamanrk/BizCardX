@@ -32,3 +32,5 @@ Workflow:
 
 Packages to install
 easyocr,streamlit,streamlit_option_menu and sqllite
+
+This app is executed through local tunnel
